@@ -66,3 +66,6 @@ The script outputs:
 ## screenshot
 
 ![Customer Churn Prediction](dd.png)
+![Customer Churn Prediction](aa.png)
+![Customer Churn Prediction](bb.png)
+![Customer Churn Prediction](cc.png)
